@@ -1,4 +1,4 @@
-# Creador-de-canciones-Red-Neuronal
+# CREADOR-DE-CANCIONES-RED-NEURONAL
 
 #La idea es construir un sistema de procesamiento de lenguaje natural de varias canciones utilizando una red neuronal.
 
